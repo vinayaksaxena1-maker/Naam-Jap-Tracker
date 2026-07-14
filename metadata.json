@@ -1,0 +1,6 @@
+{
+  "name": "Naam Jap Tracker",
+  "description": "An offline-first spiritual Naam Jap and mantra counter with a digital mala mode, streak tracking, goals, stats, and a journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
